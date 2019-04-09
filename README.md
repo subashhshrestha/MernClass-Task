@@ -1,5 +1,5 @@
 # MernClass-Task
-[
+'''[
 {
 "id": "9406731848",
 "type": "PushEvent",
@@ -133,3 +133,4 @@
 "avatar_url": "https://avatars.githubusercontent.com/u/16385208?"
 }
 }]
+'''
