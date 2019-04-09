@@ -54,7 +54,7 @@
                 {
                     "sha": "bb69ba517b0cc64795b1e96cd82b49b7d19c931c",
                     "author": {
-                        "email": "dalebingham@Dales-Main-Macbook.local",
+                        "email": "+dalebingham@Dales-Main-Macbook.local",
                         "name": "Dale Bingham"
                     },
                     "message": "updating to 0.6 versions internally",
@@ -96,7 +96,7 @@
                         "email": "47074114+vierivincent15@users.noreply.github.com",
                         "name": "Vieri Vincent"
                     },
-                    "message": "Add files via upload",
+                    "message": "+Add files via upload",
                     "distinct": true,
                     "url": "https://api.github.com/repos/vierivincent15/administrator-accenture/commits/86702da70888d6a295b2c232e909139fd62d2cb7"
                 }
@@ -111,7 +111,7 @@
         "actor": {
             "id": 6718179,
             "login": "jaycedowell",
-            "display_login": "jaycedowell",
+            "display_login": "+jaycedowell",
             "gravatar_id": "",
             "url": "https://api.github.com/users/jaycedowell",
             "avatar_url": "https://avatars.githubusercontent.com/u/6718179?"
