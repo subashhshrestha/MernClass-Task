@@ -1,5 +1,6 @@
 # MernClass-Task
-'''[
+'''
+[
 {
 "id": "9406731848",
 "type": "PushEvent",
