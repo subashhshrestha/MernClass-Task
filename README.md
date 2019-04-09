@@ -96,7 +96,7 @@
                         "email": "47074114+vierivincent15@users.noreply.github.com",
                         "name": "Vieri Vincent"
                     },
-                    +"message": "Add files via upload",
++                    "message": "Add files via upload",
                     "distinct": true,
                     "url": "https://api.github.com/repos/vierivincent15/administrator-accenture/commits/86702da70888d6a295b2c232e909139fd62d2cb7"
                 }
@@ -111,7 +111,7 @@
         "actor": {
             "id": 6718179,
             "login": "jaycedowell",
-            "display_login": "+jaycedowell",
++            "display_login": "jaycedowell",
             "gravatar_id": "",
             "url": "https://api.github.com/users/jaycedowell",
             "avatar_url": "https://avatars.githubusercontent.com/u/6718179?"
@@ -130,12 +130,12 @@
             "before": "57e5df3b7c144d0ef2488492c25a6ef4e8948c3e",
             "commits": [
                 {
-                    +"sha": "1d4882445786dcafecb7c2d8366bc956a6a3bc43",
++                    "sha": "1d4882445786dcafecb7c2d8366bc956a6a3bc43",
                     "author": {
                         "email": "jdowell@unm.edu",
                         "name": "jaycedowell"
                     },
-                    +"message": "Fixed a couple more bugs in the new PM-based scheduler.",
++                    "message": "Fixed a couple more bugs in the new PM-based scheduler.",
                     "distinct": true,
                     "url": "https://api.github.com/repos/jaycedowell/Pi2O/commits/1d4882445786dcafecb7c2d8366bc956a6a3bc43"
                 }
