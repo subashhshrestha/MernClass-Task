@@ -1,6 +1,6 @@
 # MernClass-Task
 ```diff
-[
+githubApi= [
     {
         "id": "9406808570",
         "type": "CreateEvent",
